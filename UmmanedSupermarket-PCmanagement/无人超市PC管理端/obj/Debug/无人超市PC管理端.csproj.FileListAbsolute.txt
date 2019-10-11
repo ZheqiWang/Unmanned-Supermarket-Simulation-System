@@ -1,0 +1,40 @@
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/bin/Debug/无人超市PC管理端.exe.config
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/bin/Debug/无人超市PC管理端.exe
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/bin/Debug/无人超市PC管理端.pdb
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.InWarehouse.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.Login.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.MainForm.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.OutWarehouse.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.Properties.Resources.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.Register.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.csproj.GenerateResource.Cache
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.exe
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.pdb
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.OnSelf.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.OffSelf.resources
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/bin/Debug/Google.Protobuf.dll
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/bin/Debug/MySql.Data.dll
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/bin/Debug/Google.Protobuf.xml
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.csprojAssemblyReference.cache
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.csproj.CoreCompileInputs.cache
+C:/Users/berlou/Desktop/毕业设计/相关程序/无人超市PC管理端/无人超市PC管理端/obj/Debug/无人超市PC管理端.csproj.CopyComplete
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/bin/Debug/无人超市PC管理端.exe.config
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/bin/Debug/无人超市PC管理端.exe
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/bin/Debug/无人超市PC管理端.pdb
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/bin/Debug/Google.Protobuf.dll
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/bin/Debug/Google.Protobuf.xml
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/bin/Debug/MySql.Data.xml
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.csprojAssemblyReference.cache
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.exe.config
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.InWarehouse.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.Login.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.MainForm.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.OffSelf.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.OnSelf.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.OutWarehouse.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.Properties.Resources.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.Register.resources
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.csproj.GenerateResource.cache
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.csproj.CopyComplete
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.exe
+/Users/zheqiwang/Desktop/Bachelor/无人超市论文 代码/无人超市系统代码/UmmanedSupermarket-PCmanagement/无人超市PC管理端/obj/Debug/无人超市PC管理端.pdb
