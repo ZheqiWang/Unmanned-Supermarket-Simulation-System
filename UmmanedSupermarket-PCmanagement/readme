@@ -1,1 +1,3 @@
 This is PC winForm desktop application source code.
+MySql.Data.dll is MySql database information from Sina Cloud database. It was used in the part of Access control module.  
+Other model description are shown in fold Unmanned-Supermarket-Simulation-System README file.
